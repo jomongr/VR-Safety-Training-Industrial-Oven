@@ -9,16 +9,23 @@ The system enhances industrial safety awareness, emergency response skills, and 
 🎯 Objectives
 
 Provide realistic industrial safety training
+
 Simulate high-risk oven operation scenarios
+
 Improve emergency decision-making
+
 Reduce workplace accidents
+
 Enable repeatable and safe training
 
 🧠 Technologies Used
 
 Category	Technology
+
 Engine	Unity
+
 Language	C#
+
 VR Framework	XR Interaction Toolkit
 3D Modeling	Blender / CAD
 Physics	Unity Physics Engine

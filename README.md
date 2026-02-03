@@ -53,12 +53,14 @@ Safety violations trigger alerts
 Final performance score generated
 
 📂 Project Structure
+
 VR-Safety-Training-Industrial-Ovens/
 │── Assets/
 │── Scripts/
 │── Scenes/
 │── Prefabs/
 │── README.md
+
 
 🌍 Applications
 

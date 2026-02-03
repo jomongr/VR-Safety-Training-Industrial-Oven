@@ -9,16 +9,13 @@ The system enhances industrial safety awareness, emergency response skills, and 
 🎯 Objectives
 
 Provide realistic industrial safety training
-
 Simulate high-risk oven operation scenarios
-
 Improve emergency decision-making
-
 Reduce workplace accidents
-
 Enable repeatable and safe training
 
 🧠 Technologies Used
+
 Category	Technology
 Engine	Unity
 Language	C#
@@ -26,6 +23,7 @@ VR Framework	XR Interaction Toolkit
 3D Modeling	Blender / CAD
 Physics	Unity Physics Engine
 Platform	PC-based VR
+
 🏗️ System Features
 
 ✔ Interactive industrial oven simulation
@@ -40,27 +38,18 @@ Platform	PC-based VR
 ⚠️ Training Scenarios
 
 🔥 Oven overheating emergency
-
 ⚡ Electrical malfunction
-
 💨 Gas leakage hazard
-
 ❌ Incorrect material loading
-
 🧤 Missing PPE compliance
 
 ⚙️ How the System Works
 
 User wears VR headset
-
 Enters simulated factory
-
 Performs operational tasks
-
 System monitors actions
-
 Safety violations trigger alerts
-
 Final performance score generated
 
 📂 Project Structure
@@ -74,11 +63,8 @@ VR-Safety-Training-Industrial-Ovens/
 🌍 Applications
 
 Manufacturing industries
-
 Automotive plants
-
 Heat-treatment facilities
-
 Industrial safety certification programs
 
 🏆 Project Impact
@@ -86,21 +72,15 @@ Industrial safety certification programs
 This VR training system:
 
 Prevents real-world accidents
-
 Improves safety compliance
-
 Enhances learning effectiveness
-
 Enables data-driven worker evaluation
 
 ▶️ How to Run the Project
 
 Open project in Unity
-
 Connect VR headset
-
 Load the main scene
-
 Press Play
 
 👨‍💻 Author
